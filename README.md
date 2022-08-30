@@ -1,5 +1,6 @@
 # versoes-senai-colaboracoes
 
-Projeto curso senai
+Exemplo branch
 
-Teste readme
+
+lembrei do comando: git commit
